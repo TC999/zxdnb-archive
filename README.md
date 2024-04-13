@@ -1,4 +1,6 @@
 # zxdnb-archive
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TC999/zxdnb-archive/total?label=%E6%80%BB%E4%B8%8B%E8%BD%BD%E6%95%B0&color=green)
+
 存档脏小豆([B站](https://space.bilibili.com/5836069)，[YouTube](https://www.youtube.com/@zxdnb))发布的所有内容！
 
 # 为什么会有这个仓库
