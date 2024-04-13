@@ -6,7 +6,8 @@
 
 # 如何下载
   点击下方表格里的链接即可下载
-  > [!IMPORTANT]注意[!IMPORTANT] ：如果你是中国大陆IP，请挂fastgithub（必应搜索“fastgithub发行版”，gitee结果就是）或Steam++，否则下载速度会非常慢
+  > [!IMPORTANT] 
+  > 注意 ：如果你是中国大陆IP，请挂fastgithub（必应搜索“fastgithub发行版”，gitee结果就是）或Steam++，否则下载速度会非常慢
 
   |名称|原始页面|存档|
   |----|----|----|
